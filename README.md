@@ -5,15 +5,15 @@ Model Based Programming
   All that is required for an enterprise to make their boxes MDP ready, by deploying this executable and program its backend.
   
 # Milestones
-  Compilation
-    Hellow World!
-    Yang parsing
-      Generate PASS-1 validation
-      Generate PASS-2 validation
-      Generate hooks
-      Generate Backend
-      Generate Documentation
-  Runtime process
+  a. Compilation
+    1. Hello World!
+    2. Yang parsing
+      a. Generate PASS-1 validation
+      b. Generate PASS-2 validation
+      c. Generate hooks
+      d. Generate Backend
+      e. Generate Documentation
+  b. Runtime process
   
 # Contributor
   Karthikeyan L - lkntvr@yahoo.com
